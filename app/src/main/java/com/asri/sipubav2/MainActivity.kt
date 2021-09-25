@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
         fStatus.addValueEventListener(sStatusListener)
 
 //notif
-        
+
     }
 
     private fun createNotificationChannel(){
